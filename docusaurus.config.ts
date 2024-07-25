@@ -17,7 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "SvMak", // Usually your GitHub org/user name.
   projectName: "svmak.github.io", // Usually your repo name.
-  trailingSlash: true,
+  // trailingSlash: true,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -40,6 +40,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
