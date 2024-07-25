@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /docs/tutorial-basics/create-a-page/
+slug: /tutorial-basics/create-a-page/
 ---
 
 # Create a Page
